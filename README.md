@@ -2,7 +2,7 @@
   <br>
   <img src="https://media.giphy.com/media/hvRJcEEpzgxAshAfxo/giphy.gif" width="150">
   <br>
-  PLAYER 1 READY
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=36&duration=2200&pause=2000&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=Mayank+Singh" alt="Mayank Singh"/>
   <br>
   <sub><sup>▶ PRESS START TO CONTINUE</sup></sub>
 </h1>
@@ -15,26 +15,26 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  > MAYANK loaded successfully...                             ║
-║  > Skills initialized...                                     ║
-║  > Ready to code!                                            ║
+║  > MAYANK loaded successfully...                              ║
+║  > Skills initialized...                                      ║
+║  > Ready to code!                                             ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ## 🕹️ PLAYER PROFILE
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  NAME:     MAYANK                                           │
-│  CLASS:    FULL STACK WARRIOR                               │
-│  GUILD:    DJANGO KNIGHTS                                   │
-│  SERVER:   github.com/mayank-0409                           │
-├─────────────────────────────────────────────────────────────┤
-│  ❤️  HEALTH:   ████████████████████ 100/100                │
-│  ⚡ ENERGY:    ████████████████████ 100/100                │
-│  🧠 BRAIN:     ████████████████████ 100/100                │
-│  💪 STRENGTH:  ████████████████████ 100/100                │
-└─────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│  NAME:     MAYANK                                          │
+│  CLASS:    FULL STACK WARRIOR                              │
+│  GUILD:    DJANGO KNIGHTS                                  │
+│  SERVER:   github.com/mayank-0409                          │
+├────────────────────────────────────────────────────────────┤
+│  ❤️ HEALTH:   ████████████████████ 100/100                 │
+│  ⚡ ENERGY:   ████████████████████ 100/100                 │
+│  🧠 BRAIN:    ████████████████████ 100/100                 │
+│  💪 STRENGTH: ████████████████████ 100/100                 │
+└────────────────────────────────────────────────────────────┘
 ```
 
 - 🎯 Currently on a **QUEST** to build amazing Django projects
@@ -42,15 +42,6 @@
 - 💬 Party chat: Web Development
 - 📫 Send a message to join the guild: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/) [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:)
 
-## 🕹️ MINI-GAME: FLAPPY DEV — INSERT COIN!
-
-<p align="center">
-  <img src="./assets/flying-game.svg" alt="Flappy Dev — a flying game dodging bugs and pipes" width="100%">
-</p>
-
-<p align="center">
-  <sub>🚀 <b>FLYING STATUS:</b> Dodging bugs since day one &nbsp;|&nbsp; HIGH SCORE: ∞ &nbsp;|&nbsp; LIVES: ❤️❤️❤️</sub>
-</p>
 
 ## 💻 Languages & Technologies
 
@@ -58,19 +49,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,js,ts,react,nodejs&perline=8" alt="Python, Django, Flask, FastAPI, JavaScript, TypeScript, React, Node.js"/>
+    <img src="https://skillicons.dev/icons?i=py,django,js,ts,react,nodejs&perline=8" alt="Python, Django, JavaScript, TypeScript, React, Node.js"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,postgres,mysql,mongodb,redis&perline=8" alt="HTML5, CSS3, Tailwind, Bootstrap, PostgreSQL, MySQL, MongoDB, Redis"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,postgres,mysql&perline=8" alt="HTML5, CSS3, Tailwind, Bootstrap, PostgreSQL, MySQL"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions,linux,bash,nginx&perline=8" alt="Docker, Kubernetes, AWS, Git, GitHub Actions, Linux, Bash, Nginx"/>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,githubactions,linux,bash,nginx&perline=8" alt="Git,Bash"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytest,selenium,postman,vscode,figma,vercel,netlify,cloudflare&perline=8" alt="Pytest, Selenium, Postman, VS Code, Figma, Vercel, Netlify, Cloudflare"/>
+    <img src="https://skillicons.dev/icons?i=pytest,selenium,postman,vscode,figma,vercel,netlify,cloudflare&perline=8" alt="Postman, VS Code"/>
   </a>
 </p>
 
@@ -79,7 +70,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -87,14 +77,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -174,9 +158,9 @@ LOOT:      UI/UX Design, Responsive Layout
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  🎮 GAME OVER? NEVER!                                         
-║  Press [F] to pay respects                                    
-║  Press [SPACE] to jump into new adventures                    
+║  GAME OVER? NEVER!                                            ║
+║  Press [F] to pay respects                                    ║
+║  Press [SPACE] to jump into new adventures                    ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
