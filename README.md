@@ -2,6 +2,8 @@
   Before you commit
   1. Replace YOUR_USERNAME, YOUR_LINKEDIN_USERNAME and YOUR_EMAIL@gmail.com.
   2. Name this repository exactly like your GitHub username so it shows on your profile.
+  3. Put the three project card SVGs in an "assets" folder in this repository.
+  4. Add the snake workflow (.github/workflows/snake.yml) and run it once.
   Palette: Django green 0C4B33, Python yellow FFD43B, badge ink 14261E.
 -->
 
@@ -41,77 +43,46 @@ class Developer:
 
 <p>
   <b>Backend</b><br>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14261E?style=flat-square">
-  <img alt="Django" src="https://img.shields.io/badge/Django-14261E?style=flat-square">
-  <img alt="Django REST Framework" src="https://img.shields.io/badge/Django%20REST%20Framework-FFD43B?style=flat-square">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,django&theme=dark">
+    <img alt="Python and Django" src="https://skillicons.dev/icons?i=py,django&theme=light">
+  </picture><br>
+  <sub>Python, Django, Django REST Framework</sub>
 </p>
 
 <p>
   <b>Frontend</b><br>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-14261E?style=flat-square">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-14261E?style=flat-square">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD43B?style=flat-square">
-  <img alt="React" src="https://img.shields.io/badge/React-FFD43B?style=flat-square">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react&theme=dark">
+    <img alt="HTML, CSS, JavaScript and React" src="https://skillicons.dev/icons?i=html,css,js,react&theme=light">
+  </picture><br>
+  <sub>HTML, CSS, JavaScript, React</sub>
 </p>
 
 <p>
   <b>Database and tools</b><br>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-14261E?style=flat-square">
-  <img alt="Git" src="https://img.shields.io/badge/Git-14261E?style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-14261E?style=flat-square">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-14261E?style=flat-square">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark">
+    <img alt="MySQL, Git, GitHub and VS Code" src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=light">
+  </picture><br>
+  <sub>MySQL, Git, GitHub, VS Code</sub>
 </p>
-
-<sub>Yellow badges mark what I'm actively learning.</sub>
 
 ## Featured projects
 
-<!-- If a project is deployed, add a "Live demo" badge next to "Source code". -->
+<!-- Each card links to its repository. If a project is deployed, add a "Live demo" link under its card. -->
 
-### Full-stack blogging platform
+<p>
+  <a href="https://github.com/YOUR_USERNAME/blogging-platform"><img width="640" alt="Full-stack blogging platform built with Python, Django and MySQL. Features authentication, user profiles, posts, comments, search and a responsive interface." src="assets/project-blog.svg"></a>
+</p>
 
-`Python` `Django` `MySQL` `HTML` `CSS` `JavaScript`
+<p>
+  <a href="https://github.com/YOUR_USERNAME/django-ecommerce"><img width="640" alt="E-commerce web application built with Python, Django and MySQL. Features product management, search, shopping cart, checkout workflow and order management." src="assets/project-ecommerce.svg"></a>
+</p>
 
-A complete blogging application with authentication, user profiles, categories and comments.
-
-- Authentication and user profiles
-- Create, edit and delete posts, organized by category
-- Comments and search
-- Responsive interface
-
-[
-
-![Source code](https://img.shields.io/badge/Source%20code-14261E?style=flat-square)
-
-](https://github.com/YOUR_USERNAME/blogging-platform)
-
-### E-commerce web application
-
-`Python` `Django` `MySQL` `JavaScript`
-
-A full-stack store built to demonstrate real-world backend and database development.
-
-- Product management and search
-- Shopping cart and checkout workflow
-- User authentication and order management
-
-[
-
-![Source code](https://img.shields.io/badge/Source%20code-14261E?style=flat-square)
-
-](https://github.com/YOUR_USERNAME/django-ecommerce)
-
-### Django REST API
-
-`Python` `Django REST Framework` `MySQL`
-
-A REST API that demonstrates CRUD operations, authentication and a structured backend architecture.
-
-[
-
-![Source code](https://img.shields.io/badge/Source%20code-14261E?style=flat-square)
-
-](https://github.com/YOUR_USERNAME/django-rest-api)
+<p>
+  <a href="https://github.com/YOUR_USERNAME/django-rest-api"><img width="640" alt="Django REST API built with Python, Django REST Framework and MySQL. Demonstrates CRUD operations, authentication and a structured backend architecture." src="assets/project-api.svg"></a>
+</p>
 
 ## 2026 goals
 
@@ -126,16 +97,11 @@ A REST API that demonstrates CRUD operations, authentication and a structured ba
 
 ## GitHub activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD43B&icon_color=44B78B&text_color=C9D1D9">
-    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0C4B33&icon_color=0C4B33&text_color=24292F">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FFD43B&text_color=C9D1D9">
-    <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&hide_border=true&bg_color=FFFFFF&title_color=0C4B33&text_color=24292F">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+  <img width="100%" alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+</picture>
 
 ## Get in touch
 
