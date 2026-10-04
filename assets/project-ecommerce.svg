@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="236" viewBox="0 0 640 236" role="img" aria-label="E-commerce web application">
+  <title>E-commerce web application</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C4B33"/><stop offset="1" stop-color="#092E20"/></linearGradient>
+    <filter id="shadow" filterUnits="userSpaceOnUse" x="0" y="0" width="640" height="236">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="7"/>
+      <feOffset dy="8"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.38"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      text{font-family:'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif}
+      .h{font-size:20px;font-weight:700;fill:#fff}
+      .c{font-size:12px;fill:#7FDBB6;text-anchor:end}
+      .p{fill:#FFD43B;fill-opacity:.14;stroke:#FFD43B;stroke-opacity:.4}
+      .t{font-size:11.5px;fill:#FFD43B;text-anchor:middle}
+      .d{font-size:14px;fill:#D3E8DD}
+      .f{font-size:13px;fill:#EAF4EF}
+      .o{fill:#44B78B}
+    </style>
+  </defs>
+  <rect x="20" y="14" width="600" height="184" rx="14" fill="url(#bg)" stroke="#44B78B" stroke-opacity=".35" filter="url(#shadow)"/>
+  <text class="h" x="44" y="50">E-commerce web application</text>
+  <text class="c" x="596" y="50">View source on GitHub</text>
+  <rect class="p" x="44" y="64" width="59" height="20" rx="10"/><text class="t" x="73" y="78">Python</text>
+  <rect class="p" x="111" y="64" width="59" height="20" rx="10"/><text class="t" x="140" y="78">Django</text>
+  <rect class="p" x="178" y="64" width="52" height="20" rx="10"/><text class="t" x="204" y="78">MySQL</text>
+  <rect class="p" x="238" y="64" width="87" height="20" rx="10"/><text class="t" x="281" y="78">JavaScript</text>
+  <text class="d" x="44" y="112">A full-stack store built to demonstrate real-world backend</text>
+  <text class="d" x="44" y="132">and database development.</text>
+  <circle class="o" cx="47" cy="156" r="3"/><text class="f" x="58" y="160">Product management and search</text>
+  <circle class="o" cx="47" cy="176" r="3"/><text class="f" x="58" y="180">Cart and checkout workflow</text>
+  <circle class="o" cx="323" cy="156" r="3"/><text class="f" x="334" y="160">Authentication and order management</text>
+</svg>
