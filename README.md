@@ -1,4 +1,3 @@
-
 <!-- ══════════════════════════════════════════════════════════════
      HERO BANNER
 ════════════════════════════════════════════════════════════════ -->
@@ -13,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-16a34a?style=flat-square&logo=handshake&logoColor=white" alt="Open to opportunities" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat-square&color=0e75b6" alt="Followers" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=flat-square&color=0e75b6" alt="Stars" /></a>
+  <a href="https://github.com/mayank-0409"><img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-16a34a?style=flat-square&logo=handshake&logoColor=white" alt="Open to opportunities" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mayank-0409&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/mayank-0409?tab=followers"><img src="https://img.shields.io/github/followers/mayank-0409?label=FOLLOWERS&style=flat-square&color=0e75b6" alt="Followers" /></a>
+  <a href="https://github.com/mayank-0409"><img src="https://img.shields.io/github/stars/mayank-0409?label=STARS&style=flat-square&color=0e75b6" alt="Stars" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1b6ca8&height=3" width="100%" alt="divider" />
@@ -49,7 +48,7 @@
         <li>🛡️ &nbsp;<b>2027 Goal:</b> cybersecurity, ethical hacking &amp; pentesting</li>
         <li>⚙️ &nbsp;<b>Toolbox:</b> Python · Django · DRF · React · MySQL · Git</li>
         <li>💬 &nbsp;<b>Ask me about:</b> REST APIs, auth flows, DB design</li>
-        <li>📫 &nbsp;<b>Reach me:</b> your.email@example.com</li>
+        <li>📫 &nbsp;<b>Reach me:</b> <a href="mailto:mayanksingh0409@gmail.com">mayanksingh0409@gmail.com</a></li>
       </ul>
     </td>
     <td width="42%" align="center" valign="top">
@@ -68,7 +67,7 @@
 <h2 align="center">🧰 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,html,css,js,react,mysql,git,github,vscode&theme=dark&perline=10" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=py,django,html,css,js,react,ts,mysql,git,github,vscode&theme=dark&perline=11" alt="Tech stack icons" />
 </div>
 
 <br/>
@@ -86,6 +85,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
 <h3 align="center">🗄️ Database &amp; Tools</h3>
@@ -109,54 +110,60 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1b6ca8&height=3" width="100%" alt="divider" />
 
 <!-- ══════════════════════════════════════════════════════════════
-     FEATURED PROJECTS  (replace names / links / descriptions)
+     FEATURED PROJECTS
 ════════════════════════════════════════════════════════════════ -->
 <h2 align="center">📌 Featured Projects</h2>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Project One</h3>
-      <p>Short, punchy description of the problem it solves and what makes it interesting.</p>
+    <td width="33%" valign="top">
+      <h3>📝 Django Blogging System</h3>
       <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        A full-featured blogging platform built with Django — categories, drafts,
+        featured posts, user dashboard and a clean Bootstrap UI.
       </p>
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE"><b>View Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 Project Two</h3>
-      <p>Short, punchy description of the problem it solves and what makes it interesting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO"><b>View Repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 Project Three</h3>
-      <p>Short, punchy description of the problem it solves and what makes it interesting.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       </p>
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_THREE"><b>View Repository →</b></a>
+      <a href="https://github.com/mayank-0409/django-blogging-system"><b>View Repository →</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📊 Project Four</h3>
-      <p>Short, punchy description of the problem it solves and what makes it interesting.</p>
+    <td width="33%" valign="top">
+      <h3>🤖 Promptify — AI Chat</h3>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        Full-stack AI chat app built with Django REST Framework and React +
+        TypeScript. Send prompts and get AI responses with markdown rendering and
+        syntax highlighting.
       </p>
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR"><b>View Repository →</b></a>
+      <p>
+        <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://github.com/mayank-0409/ai-chat-app-django-react"><b>View Repository →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💼 My Portfolio</h3>
+      <p>
+        Static single-page developer portfolio in plain HTML, CSS and vanilla JS —
+        a light custom-CSS version plus a dark Bootstrap 5 version with animations.
+        No build step, no dependencies.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      </p>
+      <a href="https://github.com/mayank-0409/my-portfolio"><b>View Repository →</b></a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/mayank-0409?tab=repositories"><b>→ Explore all repositories</b></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1b6ca8&height=3" width="100%" alt="divider" />
 
@@ -166,24 +173,24 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=380" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayank-0409&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-0409&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=380" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" alt="Profile summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayank-0409&theme=tokyonight" alt="Profile summary" />
 </div>
 
 <div align="center">
-  <img width="68%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Commit streak" />
+  <img width="68%" src="https://streak-stats.demolab.com?user=mayank-0409&theme=tokyonight&hide_border=true" alt="Commit streak" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayank-0409&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mayank-0409&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" />
 </div>
 
 <!-- ══════════════════════════════════════════════════════════════
@@ -193,15 +200,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayank-0409/mayank-0409/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayank-0409/mayank-0409/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/mayank-0409/mayank-0409/output/github-snake.svg" width="100%" alt="Contribution snake" />
   </picture>
 </div>
 
 <!-- 🕹️ Prefer Pac-Man instead? Use the Pac-Man workflow and swap in:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph" />
+  <img src="https://raw.githubusercontent.com/mayank-0409/mayank-0409/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph" />
 </div>
 -->
 
@@ -243,11 +250,10 @@
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0f2f4f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:mayanksingh0409@gmail.com"><img src="https://img.shields.io/badge/Email-mayanksingh0409%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/mayank-0409"><img src="https://img.shields.io/badge/GitHub-mayank--0409-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mayank-0409/my-portfolio"><img src="https://img.shields.io/badge/Portfolio-View-0f2f4f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
@@ -266,8 +272,7 @@
   <sub>Designed &amp; built with ❤️ by <b>Mayank Singh</b></sub>
 </p>
 <br/>
-🔧 Required: the snake workflow
-Create .github/workflows/snake.yml in your YOUR_USERNAME/YOUR_USERNAME repo:
+🐍 .github/workflows/snake.yml
 name: Generate Snake
 
 on:
@@ -298,3 +303,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<br/>
